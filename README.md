@@ -7,9 +7,9 @@
 ---
 
 ## 课程资源与环境
-* **实验环境**: 
+* **实验环境**: RISC-V架构TATAK OS
 * **核心工具**: gcc, make, gdb, qemu
-* **平台支持**: 头歌 (EduCoder) 实践平台 & 本地虚拟机
+* **平台支持**: 头歌 (EduCoder) 实践平台 & 本地虚拟机。实验任务查看https://www.educoder.net/
 
 ---
 
